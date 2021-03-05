@@ -1,0 +1,25 @@
+vehicle_data:
+  cylinder: '5'
+  engine: '5'
+  manufacture_date: '06/03/2010'
+  payload: '5'
+  weight: '500'
+  list_price: '12500'
+  mileage: '100'
+
+insurant_data:
+  first_name: 'Test'
+  last_name: 'User'
+  birth_date: '06/03/1994'
+  zip_code: '02012080'
+
+product_data:
+  start_date: '06/03/2021'
+
+send_quote:
+  email: 'email@email.email'
+  username: 'TestUser723'
+  password: '512404aA'
+  msg_success_send: 'Sending e-mail success!'
+
+
